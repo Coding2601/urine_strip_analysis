@@ -1,5 +1,12 @@
 # urine_strip_analysis
 
+Upload image of urine strip and get detailed analysis of it.
+
+Frontend - Vue.js (JavaScript Framework)
+Backend - Django (Python Framework)
+
+For Image Processing, I have used "OpenCV" library
+
 ## Project setup
 ```
 npm install
