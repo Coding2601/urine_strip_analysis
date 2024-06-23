@@ -10,6 +10,11 @@ npm install
 npm run serve
 ```
 
+### Compile and run backend
+```
+python manage.py runserver
+```
+
 ### Compiles and minifies for production
 ```
 npm run build
